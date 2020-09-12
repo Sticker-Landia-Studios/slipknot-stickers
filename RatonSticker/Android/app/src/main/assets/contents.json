@@ -1,0 +1,122 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Laucha Cute",
+      "publisher": "Sticker-Landia",
+      "tray_image_file": "raton.jpg",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"stickerlandiastudios@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "https://drive.google.com/file/d/1kTRm6kHtomFcTzqRvJPtea2Ex4alOKaW/view?usp=sharing",
+      "license_agreement_website": "https://drive.google.com/file/d/1y6FpTjn-8bFOACG4NtksArV93wN_MdKw/view?usp=sharing",
+      "stickers": [
+        {
+          "image_file": "laucha1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "laucha2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "laucha3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "laucha4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "laucha5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "laucha6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "laucha7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "laucha8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "laucha9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "laucha10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "laucha10.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "laucha11.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "laucha12.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "laucha13.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "ratoncopia.webp",
+          "emojis": ["💻","😩"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Laucha Soldier",
+      "publisher": "Sticker-Landia",
+      "tray_image_file": "RatonSoldier6.jpg",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"stickerlandiastudios@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "https://drive.google.com/file/d/1kTRm6kHtomFcTzqRvJPtea2Ex4alOKaW/view?usp=sharing",
+      "license_agreement_website": "https://drive.google.com/file/d/1y6FpTjn-8bFOACG4NtksArV93wN_MdKw/view?usp=sharing",
+      "stickers": [
+        {
+          "image_file": "ratonSoldier1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "ratonSoldier2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "ratonSoldier3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "RatonSoldier4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "RatonSoldier5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "RatonSoldier6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "RatonSoldier6.webp",
+          "emojis": ["😍","♥"]
+        }
+      ]
+    }
+  ]
+}
