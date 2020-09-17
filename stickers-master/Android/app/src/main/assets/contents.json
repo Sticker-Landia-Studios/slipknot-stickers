@@ -1,0 +1,330 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Sid Wilson",
+      "publisher": "Sticker-Landia",
+      "tray_image_file": "sidwilson1.jpg",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"stickerlandiastudios@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "https://drive.google.com/file/d/1rQMLxFx2y93-yd-zYNn2hyQ5BN2oNpuc/view?usp=sharing",
+      "license_agreement_website": "https://drive.google.com/file/d/1uAMI7DrdtlUWdpSs6bX4do8UTXyadVy4/view?usp=sharing",
+      "stickers": [
+        {
+          "image_file": "sidwilson1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sidwilson2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "sidwilson3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "sidwilson4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "sidwilson5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "sidwilson6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "sidwilson7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "sidwilson8.webp",
+          "emojis": ["😍","💑"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Jim Root",
+      "publisher": "Sticker-Landia",
+      "tray_image_file": "jimroot1.jpg",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"stickerlandiastudios@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "https://drive.google.com/file/d/1rQMLxFx2y93-yd-zYNn2hyQ5BN2oNpuc/view?usp=sharing",
+      "license_agreement_website": "https://drive.google.com/file/d/1uAMI7DrdtlUWdpSs6bX4do8UTXyadVy4/view?usp=sharing",
+      "stickers": [
+        {
+          "image_file": "jimroot1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "jimroot2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "jimroot3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "jimroot4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "jimroot5.webp",
+          "emojis": ["😭","💧"]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Jim Roofdsft",
+      "publisher": "Sticker-Landia",
+      "tray_image_file": "craigjones2.jpg",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"stickerlandiastudios@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "https://drive.google.com/file/d/1rQMLxFx2y93-yd-zYNn2hyQ5BN2oNpuc/view?usp=sharing",
+      "license_agreement_website": "https://drive.google.com/file/d/1uAMI7DrdtlUWdpSs6bX4do8UTXyadVy4/view?usp=sharing",
+      "stickers": [
+        {
+          "image_file": "craigjones1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "craigjones2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "craigjones3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "craigjones4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "craigjones5.webp",
+          "emojis": ["😭","💧"]
+        }
+      ]
+    },
+
+    {
+      "identifier": "4",
+      "name": "Shawn Crahan",
+      "publisher": "Sticker-Landia",
+      "tray_image_file": "shawncrahan2.jpg",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"stickerlandiastudios@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "https://drive.google.com/file/d/1rQMLxFx2y93-yd-zYNn2hyQ5BN2oNpuc/view?usp=sharing",
+      "license_agreement_website": "https://drive.google.com/file/d/1uAMI7DrdtlUWdpSs6bX4do8UTXyadVy4/view?usp=sharing",
+      "stickers": [
+        {
+          "image_file": "shawncrahan1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "shawncrahan2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "shawncrahan3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "shawncrahan4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "shawncrahan5.webp",
+          "emojis": ["😭","💧"]
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Mick Thomson",
+      "publisher": "Sticker-Landia",
+      "tray_image_file": "mickthomson2.jpg",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"stickerlandiastudios@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "https://drive.google.com/file/d/1rQMLxFx2y93-yd-zYNn2hyQ5BN2oNpuc/view?usp=sharing",
+      "license_agreement_website": "https://drive.google.com/file/d/1uAMI7DrdtlUWdpSs6bX4do8UTXyadVy4/view?usp=sharing",
+      "stickers": [
+        {
+          "image_file": "mickthomson1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "mickthomson2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "mickthomson3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "mickthomson4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "mickthomson5.webp",
+          "emojis": ["😭","💧"]
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "Corey Taylor",
+      "publisher": "Sticker-Landia",
+      "tray_image_file": "coreytaylor6.jpg",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"stickerlandiastudios@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "https://drive.google.com/file/d/1rQMLxFx2y93-yd-zYNn2hyQ5BN2oNpuc/view?usp=sharing",
+      "license_agreement_website": "https://drive.google.com/file/d/1uAMI7DrdtlUWdpSs6bX4do8UTXyadVy4/view?usp=sharing",
+      "stickers": [
+        {
+          "image_file": "coreytaylor1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "coreytaylor2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "coreytaylor3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "coreytaylor4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "coreytaylor5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "coreytaylor6.webp",
+          "emojis": ["😭","💧"]
+        }
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "Alessandro Venturella",
+      "publisher": "Sticker-Landia",
+      "tray_image_file": "alessandroventurella1.jpg",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"stickerlandiastudios@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "https://drive.google.com/file/d/1rQMLxFx2y93-yd-zYNn2hyQ5BN2oNpuc/view?usp=sharing",
+      "license_agreement_website": "https://drive.google.com/file/d/1uAMI7DrdtlUWdpSs6bX4do8UTXyadVy4/view?usp=sharing",
+      "stickers": [
+        {
+          "image_file": "alessandroventurella1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "alessandroventurella2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "alessandroventurella3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "alessandroventurella4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "alessandroventurella5.webp",
+          "emojis": ["😭","💧"]
+        }
+      ]
+    },
+    {
+      "identifier": "8",
+      "name": "Jay Weinberg",
+      "publisher": "Sticker-Landia",
+      "tray_image_file": "jayweinberg1.jpg",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"stickerlandiastudios@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "https://drive.google.com/file/d/1rQMLxFx2y93-yd-zYNn2hyQ5BN2oNpuc/view?usp=sharing",
+      "license_agreement_website": "https://drive.google.com/file/d/1uAMI7DrdtlUWdpSs6bX4do8UTXyadVy4/view?usp=sharing",
+      "stickers": [
+        {
+          "image_file": "jayweinberg1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "jayweinberg2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "jayweinberg3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "jayweinberg4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "jayweinberg5.webp",
+          "emojis": ["😭","💧"]
+        }
+      ]
+    },
+    {
+      "identifier": "9",
+      "name": "Tortilla Man",
+      "publisher": "Sticker-Landia",
+      "tray_image_file": "tortillaman1.jpg",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"stickerlandiastudios@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "https://drive.google.com/file/d/1rQMLxFx2y93-yd-zYNn2hyQ5BN2oNpuc/view?usp=sharing",
+      "license_agreement_website": "https://drive.google.com/file/d/1uAMI7DrdtlUWdpSs6bX4do8UTXyadVy4/view?usp=sharing",
+      "stickers": [
+        {
+          "image_file": "tortillaman1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "tortillaman2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "tortillaman3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "tortillaman4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "tortillaman5.webp",
+          "emojis": ["😭","💧"]
+        }
+      ]
+    }
+
+  ]
+}
